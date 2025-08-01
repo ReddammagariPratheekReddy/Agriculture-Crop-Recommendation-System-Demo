@@ -37,8 +37,8 @@ Alternate repo with combined code: (https://github.com/LokVinay/Agriculture_Crop
 
 | Name            | GitHub Profile                                                   |
 |-----------------|------------------------------------------------------------------|
-| Lok Vinay       | [@LokVinay](https://github.com/LokVinay)                         |
-| Pratheek Reddy  | [@ReddammagariPratheekReddy](https://github.com/ReddammagariPratheekReddy) |
+| Pratheek Reddy  |[@ReddammagariPratheekReddy](https://github.com/ReddammagariPratheekReddy) |
+| Lok Vinay       |[@LokVinay](https://github.com/LokVinay)  |
 
 
 # Getting Started with Create React App
